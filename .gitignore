@@ -1,0 +1,2 @@
+# Ignore all thread dump folders
+thread_dumps_*/
